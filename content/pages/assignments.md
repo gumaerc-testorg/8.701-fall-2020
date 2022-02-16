@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: da408d4d-5d5b-7887-9cb1-c80727794ea6
 ---
@@ -96,7 +99,7 @@ Below is a list of seminal papers in nuclear and particle physics. You are asked
 
 ### Z Boson
 
-[Experimental Observation of Lepton Pairs of Invariant Mass around 95 GeV/c2 at the CERN SPS Collider](https://www.sciencedirect.com/science/article/pii/0370269383901880?via%3Dihub)
+[Experimental Observation of Lepton Pairs of Invariant Mass around 95 GeV/c{{< sup "2" >}} at the CERN SPS Collider](https://www.sciencedirect.com/science/article/pii/0370269383901880?via%3Dihub)
 
 ### Neutrino Oscillations
 

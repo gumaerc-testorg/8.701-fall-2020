@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/9ee9f241e4355648a6fa83bff7fdf129_BCQ9h1PxW08.vtt
+file: /media/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/9ee9f241e4355648a6fa83bff7fdf129_BCQ9h1PxW08.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 9ee9f241-e435-5648-a6fa-83bff7fdf129

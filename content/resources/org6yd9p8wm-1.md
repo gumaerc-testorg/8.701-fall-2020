@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/aab5954e3d20f108718249d6b501bf94_ORG6YD9P8WM.pdf
+file: /media/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/aab5954e3d20f108718249d6b501bf94_ORG6YD9P8WM.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: aab5954e-3d20-f108-7182-49d6b501bf94
