@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: da408d4d-5d5b-7887-9cb1-c80727794ea6
 resourcetype: Document
 title: 8.701 F2020 Problem Set 1 Solution
 uid: 61c4e41a-1fa0-016d-8345-8aea06094042

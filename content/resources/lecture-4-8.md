@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Lecture Slides
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4.9: Renormalization and Higher-Order QED Diagrams (04:43)'
 uid: b376b4b5-7203-c305-a8ce-bfa9dcc9ea05
 video_files:

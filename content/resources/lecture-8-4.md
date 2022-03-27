@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Lecture Slides
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8.5: Results of Neutrino Oscillation Experiments (05:36)'
 uid: b7c6a0c0-da59-263e-76d5-90f0a3ff2c9c
 video_files:
