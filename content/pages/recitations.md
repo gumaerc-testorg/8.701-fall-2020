@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes 20 recitations and 20 solutions.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -52,7 +53,7 @@ SOLUTIONS
 {{% resource_link eba9717a-073e-77a5-095a-b2131f933be1 "Recitation 4 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 016b1ba3-780c-dbdc-e9e0-1051b587cc9d "Recitation 4 Solutions (PDF)" %}}
+{{% resource_link 016b1ba3-780c-dbdc-e9e0-1051b587cc9d "Recitation 4 Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +98,7 @@ SOLUTIONS
 {{% resource_link 4409ea87-ccac-76a2-786c-44d795cabee6 "Recitation 9 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 82d877f6-e22d-6578-4d80-7cd5bf4b1f3f "Recitation 9 Solutions (PDF)" %}}
+{{% resource_link 82d877f6-e22d-6578-4d80-7cd5bf4b1f3f "Recitation 9 Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +107,7 @@ SOLUTIONS
 {{% resource_link fd9972b0-5a9b-4006-6a93-1066c2eb41f8 "Recitation 10 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 32bb3146-b0f1-5e8c-4da8-9370ffb6e5fd "Recitation 10 Solutions (PDF)" %}}
+{{% resource_link 32bb3146-b0f1-5e8c-4da8-9370ffb6e5fd "Recitation 10 Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +125,7 @@ SOLUTIONS
 {{% resource_link 34a2dd12-b12d-d937-2c4f-e42c4cbf4740 "Recitation 12 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link eb662ad9-78e5-23ac-ec9c-73407e14c26f "Recitation 12 Solutions (PDF)" %}}
+{{% resource_link eb662ad9-78e5-23ac-ec9c-73407e14c26f "Recitation 12 Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +134,7 @@ SOLUTIONS
 {{% resource_link 0e3b666e-92b5-7058-814e-27895bb30ea1 "Recitation 13 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link bb38613e-685a-8720-77ea-6108332076be "Recitation 13 Solutions (PDF)" %}}
+{{% resource_link bb38613e-685a-8720-77ea-6108332076be "Recitation 13 Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +143,7 @@ SOLUTIONS
 {{% resource_link d031c0b7-6493-7a80-ed07-d3b67d71a352 "Recitation 14 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f81cca5b-a2dc-2bdb-28fe-96cb3140430d "Recitation 14 Solutions (PDF)" %}}
+{{% resource_link f81cca5b-a2dc-2bdb-28fe-96cb3140430d "Recitation 14 Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -4,8 +4,9 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: 'Lecture 8.3 Slides: [Mixing (PDF)](resources/mit8_701f20_lec8-3)'
+optional_text: 'Lecture 8.3 Slides: [Mixing (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec8-3)'
 parent_title: Chapter 8. Neutrino Physics
 parent_type: CourseSection
 related_resources_text: ''
@@ -16,7 +17,7 @@ title: 'Lecture 8.3: Mixing (05:37)'
 uid: 2fac7dcb-e5d5-8070-7b9d-e3b605f4a9c1
 video_files:
   archive_url: https://archive.org/download/MIT8.701F20/MIT8_701F20_08-03_mixing_300k.mp4
-  video_captions_file: /courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/75585687e5375bc1ae38732ead58c1d7_nXzur-2hbkI.vtt
+  video_captions_file: ''
   video_thumbnail_file: https://img.youtube.com/vi/nXzur-2hbkI/default.jpg
   video_transcript_file: /courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/b6e8a33bc8b31c1f773eece35d232f02_nXzur-2hbkI.pdf
 video_metadata:
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** As neutrinos are massive, they mix and oscillate. (05:37)
 
 **Instructor:** Prof. Markus Klute
+
+
+

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes 6 problem sets and solutions and a list of seminal
+  papers in nuclear and particle physics for paper presentation.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -117,4 +119,4 @@ Below is a list of seminal papers in nuclear and particle physics. You are asked
 
 ### Fermi’s Theory of Beta Decay
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Fermi’s Theory of Beta Decay (PDF)](https://arxiv.org/ftp/arxiv/papers/1803/1803.07147.pdf)
+[Fermi’s Theory of Beta Decay (PDF)](https://arxiv.org/ftp/arxiv/papers/1803/1803.07147.pdf)

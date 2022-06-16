@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/2b12ef4534a39ddf6e6c55975b4d47b0_DXf8JrCEaNk.srt
+file: /courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/2b12ef4534a39ddf6e6c55975b4d47b0_DXf8JrCEaNk.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

@@ -4,9 +4,10 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: "Lecture 0.5 Slides:\_[Early History and People in Nuclear and Particle\
-  \ Physics (PDF)](resources/mit8_701f20_lec0-5)"
+  \ Physics (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec0-5)"
 parent_title: Chapter 0. Introduction
 parent_type: CourseSection
 related_resources_text: ''
@@ -17,7 +18,7 @@ title: 'Lecture 0.5: Early History and People in Nuclear and Particle Physics (1
 uid: abc252d0-c04c-b4b9-7c73-2ea47ecf29df
 video_files:
   archive_url: https://archive.org/download/MIT8.701F20/MIT8_701F20_00-05_History_300k.mp4
-  video_captions_file: /courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/93321ca1eded50f5b1abf94f1a81226e_B53W30-GJ10.vtt
+  video_captions_file: ''
   video_thumbnail_file: https://img.youtube.com/vi/B53W30-GJ10/default.jpg
   video_transcript_file: /courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/7eabd2d0646170455bea8c3faae63b84_B53W30-GJ10.pdf
 video_metadata:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Discussion of the early history and people in nuclear and particle physics from the 1820s to 1939. (16:01)
 
 **Instructor:** Prof. Markus Klute
+
+
+

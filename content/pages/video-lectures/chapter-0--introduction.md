@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes 9 short videos.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos

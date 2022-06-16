@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes 67 short videos.
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
