@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section contains the course meeting times, prerequisites, course
+  description, course grading policy, and a course calendar.  '
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: de8ecb25-830c-61ad-8279-b4d4dc508005
 ---
@@ -14,7 +18,7 @@ Recitations: 2 sessions / week, 1 hour/session
 Prerequisites
 -------------
 
-There are no prerequisites, but _[8.321 Quantum Theory I](/courses/8-321-quantum-theory-i-fall-2017/)_ is a corequisite (must be taken at the same time).
+There are no prerequisites, but _[8.321 Quantum Theory I](/courses/8-321-quantum-theory-i-fall-2017)_ is a corequisite (must be taken at the same time).
 
 Course Description
 ------------------

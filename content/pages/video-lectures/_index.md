@@ -1,29 +1,33 @@
 ---
 content_type: page
+description: This section includes 67 short videos.
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Video Lectures
 uid: 82effbc6-0d78-a950-02bb-b94bd88aa16a
 ---
 
 The course is organized around the following content chapters. Each chapter includes a collection of short videos discussing specific concepts or methods.
 
-[Chapter 0. Introduction]({{< baseurl >}}/pages/video-lectures/chapter-0.-introduction)
+{{% resource_link 00f1d787-7dd6-c6ab-86fa-05e23037ce9e "Chapter 0. Introduction" %}}
 
-[Chapter 1. Fermions, Bosons, and Fields]({{< baseurl >}}/pages/video-lectures/chapter-1.-fermions-bosons-and-fields)
+{{% resource_link 541ed54b-ca01-1ae6-c93f-3e4894265c66 "Chapter 1. Fermions, Bosons, and Fields" %}}
 
-[Chapter 2. Symmetries]({{< baseurl >}}/pages/video-lectures/chapter-2.-symmetries)
+{{% resource_link d2b271d8-0b70-02c8-8970-68f0acab2a6d "Chapter 2. Symmetries" %}}
 
-[Chapter 3. Feynman Calculus]({{< baseurl >}}/pages/video-lectures/chapter-3.-feynman-calculus)
+{{% resource_link 07284824-3e45-3cd9-63bd-762605c5e6b8 "Chapter 3. Feynman Calculus" %}}
 
-[Chapter 4. QED]({{< baseurl >}}/pages/video-lectures/chapter-4.-qed)
+{{% resource_link 261d62f3-5d97-9dd7-607b-034c59d248ec "Chapter 4. QED" %}}
 
-[Chapter 5. QCD]({{< baseurl >}}/pages/video-lectures/chapter-5.-qcd)
+{{% resource_link 0e3bc8fd-79ce-aa37-b689-321c9a45efd5 "Chapter 5. QCD" %}}
 
-[Chapter 6. Weak Interactions]({{< baseurl >}}/pages/video-lectures/chapter-6.-weak-interactions)
+{{% resource_link eb0d6835-336c-2643-ff7d-c38be60de661 "Chapter 6. Weak Interactions" %}}
 
-[Chapter 7. Higgs Physics]({{< baseurl >}}/pages/video-lectures/chapter-7.-higgs-physics)
+{{% resource_link 39878e29-51df-3794-21d1-8b0550df0b1e "Chapter 7. Higgs Physics" %}}
 
-[Chapter 8. Neutrino Physics]({{< baseurl >}}/pages/video-lectures/chapter-8.-neutrino-physics)
+{{% resource_link 220b4d88-bdd4-794e-c2b7-924fb69cb924 "Chapter 8. Neutrino Physics" %}}
 
-[Chapter 9. Nuclear Physics]({{< baseurl >}}/pages/video-lectures/chapter-9.-nuclear-physics)
+{{% resource_link 0dd779a3-c018-49c1-7508-cac9276a60cb "Chapter 9. Nuclear Physics" %}}
 
-[Chapter 10. Instrumentation]({{< baseurl >}}/pages/video-lectures/chapter-10.-instrumentation)
+{{% resource_link 326619bb-bbc2-9833-89c8-83cf4898ee7a "Chapter 10. Instrumentation" %}}

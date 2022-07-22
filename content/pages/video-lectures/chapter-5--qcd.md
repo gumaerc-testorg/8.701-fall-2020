@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: ''
 is_media_gallery: true
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 parent_title: Video Lectures
+parent_type: CourseSection
 parent_uid: 82effbc6-0d78-a950-02bb-b94bd88aa16a
 title: Chapter 5. QCD
 uid: 0e3bc8fd-79ce-aa37-b689-321c9a45efd5

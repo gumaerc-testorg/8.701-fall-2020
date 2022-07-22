@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section includes 6 problem sets and solutions and a list of seminal
+  papers in nuclear and particle physics for paper presentation.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: da408d4d-5d5b-7887-9cb1-c80727794ea6
 ---
@@ -22,55 +27,55 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset1)
+{{% resource_link 80c7df03-298c-d68d-3fc0-0102bae6862f "Problem Set 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 1 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset1_soln)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset2)
-{{< tdclose >}}
-{{< tdopen >}}
-[Problem Set 2 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset2_soln)
+{{% resource_link 61c4e41a-1fa0-016d-8345-8aea06094042 "Problem Set 1 Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset3)
+{{% resource_link a69ace13-9dcf-4c76-274c-5e9b05700ce0 "Problem Set 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 3 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset3_soln)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset4)
-{{< tdclose >}}
-{{< tdopen >}}
-[Problem Set 4 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset4_soln)
+{{% resource_link bf651db4-3f0a-061b-e393-42a2a886a834 "Problem Set 2 Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset5)
+{{% resource_link a715d044-0367-0d09-ba3b-9036e0e5c1ec "Problem Set 3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 5 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset5_soln)
+{{% resource_link 2e839876-1183-e50f-7c9a-74f6c4bfc922 "Problem Set 3 Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset6)
+{{% resource_link 88b5a16c-4b20-46a2-7dc5-997d3b9293f7 "Problem Set 4 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Problem Set 6 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset6_soln)
+{{% resource_link e9934e02-6fb8-439e-d23a-8ebffcef8962 "Problem Set 4 Solutions (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link a3f89178-5aeb-bf63-500f-99c8ad28c230 "Problem Set 5 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link bce7d67c-762e-1c1f-d66f-591c8737351a "Problem Set 5 Solutions (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link d22332eb-4282-f5c3-d273-3fece89d362b "Problem Set 6 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link 665de848-0621-1041-9294-94be38e69c91 "Problem Set 6 Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +101,7 @@ Below is a list of seminal papers in nuclear and particle physics. You are asked
 
 ### Z Boson
 
-[Experimental Observation of Lepton Pairs of Invariant Mass around 95 GeV/c2 at the CERN SPS Collider](https://www.sciencedirect.com/science/article/pii/0370269383901880?via%3Dihub)
+[Experimental Observation of Lepton Pairs of Invariant Mass around 95 GeV/c{{< sup "2" >}} at the CERN SPS Collider](https://www.sciencedirect.com/science/article/pii/0370269383901880?via%3Dihub)
 
 ### Neutrino Oscillations
 
@@ -114,4 +119,4 @@ Below is a list of seminal papers in nuclear and particle physics. You are asked
 
 ### Fermi’s Theory of Beta Decay
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Fermi’s Theory of Beta Decay (PDF)](https://arxiv.org/ftp/arxiv/papers/1803/1803.07147.pdf)
+[Fermi’s Theory of Beta Decay (PDF)](https://arxiv.org/ftp/arxiv/papers/1803/1803.07147.pdf)
