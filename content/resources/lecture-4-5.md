@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: "\_Lecture 4.6 Slides:\_[Examples (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec4-6)"
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** With all tools in place, we can now start calculating transition amplitudes for QED processes. In this video, we look at electron muon scattering as one example. (04:22)
 
 **Instructor:** Prof. Markus Klute
-
-
 

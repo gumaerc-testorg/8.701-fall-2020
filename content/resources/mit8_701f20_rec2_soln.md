@@ -5,6 +5,7 @@ file: /courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/8aa5
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: 'Lecture 10.4 Slides: [Accelerators (PDF)](https://www.classe.cornell.edu/~hoff/LECTURES/10USPAS/notes01.pdf)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This is a brief introduction to particle accelerator concepts with a historic touch. (23:57)
 
 **Instructor:** Prof. Markus Klute
-
-
 

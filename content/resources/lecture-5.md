@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: 'Lecture 5.1 Slides: [Hadron Production (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec5-1)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** In this first lecture on QCD, we discuss hadron production in electron-position collisions and the R-ratio. (09:27)
 
 **Instructor:** Prof. Markus Klute
-
-
 

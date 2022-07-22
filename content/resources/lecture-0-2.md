@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: "Lecture 0.3 Slides:\_[Teaching Staff (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec0-3)"
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Introduction of the teaching staff: Instructor Markus Klute and Teaching Assistant Justin. (04:24)
 
 **Instructor:** Prof. Markus Klute
-
-
 

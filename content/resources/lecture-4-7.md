@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: "\_Lecture 4.8 Slides:\_[Cross Sections (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec4-8)"
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** We can now combine what we learned in this chapter and calculate scattering cross-sections. (06:50)
 
 **Instructor:** Prof. Markus Klute
-
-
 

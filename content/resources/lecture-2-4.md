@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: 'Lecture 2.5 Slides: [CP (violation) (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec2-5)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** After discussing the topics of parity and charge conjugation, we are now investigating CP symmetry. (11:17)
 
 **Instructor:** Prof. Markus Klute
-
-
 

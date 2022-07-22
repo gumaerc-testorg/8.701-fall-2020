@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: "Lecture 0.5 Slides:\_[Early History and People in Nuclear and Particle\
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Discussion of the early history and people in nuclear and particle physics from the 1820s to 1939. (16:01)
 
 **Instructor:** Prof. Markus Klute
-
-
 

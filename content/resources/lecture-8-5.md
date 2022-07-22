@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: 'Lecture 8.6 Slides: [Mass Scale and Nature (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec8-6)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Brief discussion on direct neutrino mass measurements including neutrinoless double beta decays. (07:21)
 
 **Instructor:** Prof. Markus Klute
-
-
 

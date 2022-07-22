@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: "\_Lecture 4.9 Slides:\_[Renormalization and Higher-Order QED Diagrams\
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** A quick look into the effects of higher-order corrections. (04:43)
 
 **Instructor:** Prof. Markus Klute
-
-
 

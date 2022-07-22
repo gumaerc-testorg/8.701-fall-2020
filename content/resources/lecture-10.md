@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: 'Lecture 10.1 Slides: [Particle Interaction with Matter (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec10-1)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** A discussion of particle interactions with matter. (17:13)
 
 **Instructor:** Prof. Markus Klute
-
-
 

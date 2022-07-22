@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: "\_Lecture 3.1 Slide:\_[Introduction (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec3-1)"
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** A brief introduction to Feynman calculus. Starting the quantitative discussion of particle dynamics. (02:18)
 
 **Instructor:** Prof. Markus Klute
-
-
 

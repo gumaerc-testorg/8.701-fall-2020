@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: 'Lecture 7.3 Slides: [Production and Decay (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec7-3)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Look into how Higgs bosons are production at the LHC and how they decay. (05:35)
 
 **Instructor:** Prof. Markus Klute
-
-
 

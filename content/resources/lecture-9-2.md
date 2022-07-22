@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: 'Lecture 9.3 Slides: [Stability (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec9-3)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** The discussion of nuclear binding energy leads to a set of nuclides that are stable and others that can decay. (10:22)
 
 **Instructor:** Prof. Markus Klute
-
-
 

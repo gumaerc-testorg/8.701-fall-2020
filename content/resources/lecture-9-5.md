@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: 'Lecture 9.6 Slides: [Gamma Decay (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec9-6)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Discussion of gamma decays, the nuclear spectroscopy, and the Mossbauer effect. (04:42)
 
 **Instructor:** Prof. Markus Klute
-
-
 

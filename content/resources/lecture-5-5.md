@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: 'Lecture 5.6 Slides: [Hadron Collider (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec5-6)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** A short discussion of hadron collider and their cross-sections. (03:55)
 
 **Instructor:** Prof. Markus Klute
-
-
 

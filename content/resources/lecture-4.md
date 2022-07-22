@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: "\_Lecture 4.1 Slides:\_[Free Wave Equations (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec4-1)"
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Introduction of the Klein-Gordon, Weyl, and Dirac equation. (05:38)
 
 **Instructor:** Prof. Markus Klute
-
-
 

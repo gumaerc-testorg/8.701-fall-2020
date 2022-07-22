@@ -4,6 +4,7 @@ description: ''
 file: /courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/ecdb04d3547c577581198057aa332ace_9QPqYAr-Zsc.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

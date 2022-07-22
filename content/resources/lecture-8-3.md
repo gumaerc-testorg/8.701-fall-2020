@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: 'Lecture 8.4 Slides: [Experimental Study (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec8-4)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** There are numerous sources for neutrinos which allow the study of this weakly interacting particle. (11:11)
 
 **Instructor:** Prof. Markus Klute
-
-
 

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: 'Lecture 1.5 Slides: [Reactions (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec1-5)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** The relation between reactions and cross-section and discussion of a classical model. (03:54)
 
 **Instructor:** Prof. Markus Klute
-
-
 

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: 'Lecture 6.5 Slides: [Neutral Current (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec6-5)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Short add-on on neutral currents at energies close to the Z pole. (02:19)
 
 **Instructor:** Prof. Markus Klute
-
-
 

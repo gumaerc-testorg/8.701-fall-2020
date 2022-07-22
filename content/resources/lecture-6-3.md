@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: 'Lecture 6.4 Slides: [Quarks (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec6-4)'
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Discussion of the charged weak interaction with quarks and an introduction of the CMS matrix. (09:17)
 
 **Instructor:** Prof. Markus Klute
-
-
 

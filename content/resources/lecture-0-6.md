@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: "\_Lecture 0.7 Slides:\_[Units (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec0-7)"
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Short description of Natural and Heaviside-Lorentz units. You can read more, for example, in Section 2.1 of ‘Modern Particle Physics’ by Mark Thomason. (05:48)
 
 **Instructor:** Prof. Markus Klute
-
-
 

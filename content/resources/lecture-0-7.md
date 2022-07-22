@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: "Lecture 0.8 Slides:\_[Relativistic Kinematics (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec0-8)"
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Review of relativistic kinematics with examples of particle decay, production of scattering. (15:21)
 
 **Instructor:** Prof. Markus Klute
-
-
 

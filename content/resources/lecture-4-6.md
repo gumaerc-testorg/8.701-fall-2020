@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: "\_Lecture 4.7 Slides:\_[Casimir's Trick (PDF)](/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/resources/mit8_701f20_lec4-7)"
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Discussion on how to treat spin in the calculation of amplitudes. (10:24)
 
 **Instructor:** Prof. Markus Klute
-
-
 
