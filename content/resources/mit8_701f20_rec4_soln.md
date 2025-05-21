@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/016b1ba3780cdbdce9e01051b587cc9d_MIT8_701f20_rec4_soln.pdf
+file_size: 332923
 file_type: application/pdf
 learning_resource_types:
 - Recitations
