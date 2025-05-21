@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/f8cd3ce120275f989c62e74791d45e32_MlBL7hSUeWE.vtt
+file_size: 8686
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

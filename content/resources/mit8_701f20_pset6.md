@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/d22332eb4282f5c3d2733fece89d362b_MIT8_701F20_pset6.pdf
+file_size: 158194
 file_type: application/pdf
 learning_resource_types:
 - Assignments
