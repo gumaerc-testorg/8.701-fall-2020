@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/0ab906cdd13b13bd2303ea62237d46e2_HynldX56FHI.pdf
+file: /ol-ocw-studio-app/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/0ab906cdd13b13bd2303ea62237d46e2_HynldX56FHI.pdf
 file_size: 26964
 file_type: application/pdf
 learning_resource_types: []
