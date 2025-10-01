@@ -89,34 +89,34 @@ Below is a list of seminal papers in nuclear and particle physics. You are asked
 
 ### Parity Violation
 
-[Experimental Test of Parity Conservation in Beta Decays](https://journals.aps.org/pr/abstract/10.1103/PhysRev.105.1413)
+{{% resource_link "a3f9b66f-9327-4382-b76d-fea22c9c7bb2" "Experimental Test of Parity Conservation in Beta Decays" %}}
 
 ### CP Violation
 
-[Evidence for the \\(2\\pi\\) Decays of the \\(K\_2^0\\) Meson](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.13.138)
+{{% resource_link "85cd74bb-0fd2-4a3c-b6d6-1d11f5f2b06a" "Evidence for the \\(2\\pi\\) Decays of the \\(K\_2^0\\) Meson" %}}
 
 ### W Boson
 
-[Observation of Single Isolated Electrons of High Transverse Momentum in Events with Missing Transverse Energy at the CERN pp Collider](https://www.sciencedirect.com/science/article/pii/0370269383916052?via%3Dihub)
+{{% resource_link "de318c23-abe1-4119-8d40-349c180625d8" "Observation of Single Isolated Electrons of High Transverse Momentum in Events with Missing Transverse Energy at the CERN pp Collider" %}}
 
 ### Z Boson
 
-[Experimental Observation of Lepton Pairs of Invariant Mass around 95 GeV/c{{< sup "2" >}} at the CERN SPS Collider](https://www.sciencedirect.com/science/article/pii/0370269383901880?via%3Dihub)
+{{% resource_link "b1f0f09a-d3fe-475f-bc0d-d2fb96f26381" "Experimental Observation of Lepton Pairs of Invariant Mass around 95 GeV/c{{< sup \"2\" >}} at the CERN SPS Collider" %}}
 
 ### Neutrino Oscillations
 
-[Evidence for Oscillation of Atmospheric Neutrinos](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.81.1562)
+{{% resource_link "e98b9a6e-8d2e-4606-a2be-f9ddb26bc6b3" "Evidence for Oscillation of Atmospheric Neutrinos" %}}
 
 ### Higgs Boson
 
-[Observation of a New Boson at a Mass of 125 GeV with the CMS Experiment at the LHC](https://www.sciencedirect.com/science/article/pii/S0370269312008581?via%3Dihub)
+{{% resource_link "8c2c008d-0810-431a-83fa-74381b66976d" "Observation of a New Boson at a Mass of 125 GeV with the CMS Experiment at the LHC" %}}
 
-[Observation of a New Particle in the Search for the Standard Model Higgs Boson with the ATLAS Detector at the LHC](https://www.sciencedirect.com/science/article/pii/S037026931200857X?via%3Dihub)
+{{% resource_link "c0a2dce8-feea-4d14-a346-fe7fa8ab66d9" "Observation of a New Particle in the Search for the Standard Model Higgs Boson with the ATLAS Detector at the LHC" %}}
 
 ### Neutron
 
-[Possible Existence of a Neutron](https://www.nature.com/articles/129312a0)
+{{% resource_link "7c8cee96-eb04-42b3-857f-a1fa85e8e686" "Possible Existence of a Neutron" %}}
 
 ### Fermi’s Theory of Beta Decay
 
-[Fermi’s Theory of Beta Decay (PDF)](https://arxiv.org/ftp/arxiv/papers/1803/1803.07147.pdf)
+{{% resource_link "178621ad-1bb7-4f13-ad52-8f36fa493995" "Fermi’s Theory of Beta Decay (PDF)" %}}
