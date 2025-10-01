@@ -686,7 +686,7 @@ TOPICS
 10.4
 {{< tdclose >}}
 {{< tdopen >}}
-[Accelerators (PDF - 5MB)](http://www.classe.cornell.edu/~hoff/LECTURES/10USPAS/notes01.pdf) \[adapted from the _Advanced Accelerator Physics_ slides by Prof. Georg Hoffstaetter, Cornell University\]
+{{% resource_link "902f3b55-b2c9-40c8-9c8b-030ab06cb7c5" "Accelerators (PDF - 5MB)" %}} \[adapted from the _Advanced Accelerator Physics_ slides by Prof. Georg Hoffstaetter, Cornell University\]
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -8,7 +8,8 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: 'Lecture 10.4 Slides: [Accelerators (PDF)](https://www.classe.cornell.edu/~hoff/LECTURES/10USPAS/notes01.pdf)'
+optional_text: 'Lecture 10.4 Slides: {{% resource_link "68daa9b0-8f65-4bdb-9bd6-4cc75d98936b"
+  "Accelerators (PDF)" %}}'
 parent_title: Chapter 10. Instrumentation
 parent_type: CourseSection
 related_resources_text: ''

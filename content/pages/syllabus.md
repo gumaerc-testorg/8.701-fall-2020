@@ -54,7 +54,7 @@ Leo, William R. _Techniques for Nuclear and Particle Physics Experiments_. Sprin
 
 Thomson, Mark. _Modern Particle Physics_. Cambridge University Press, 2013. ISBN: 9781107034266
 
-[Particle Data Group Reviews](https://pdg.lbl.gov/2020/reviews/contents_sports.html)
+{{% resource_link "1c067746-8f44-4d64-8991-8dd82cedada2" "Particle Data Group Reviews" %}}
 
 Grading
 -------
